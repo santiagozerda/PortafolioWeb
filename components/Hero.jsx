@@ -25,7 +25,7 @@ export default function Hero() {
           <div className="mt-8 flex justify-center md:justify-start">
             <a
               href="/SantiagoZerdaCV-2026.pdf"
-              download="Santiago-ZerdaCV-2026.pdf"
+              download="SantiagoZerdaCV-2026.pdf"
               className="relative overflow-hidden flex items-center gap-2 px-6 py-3 bg-orange-400 text-black rounded-lg font-semibold hover:bg-orange-300 hover:scale-105 transition duration-300 shadow-lg"
             >
               <span className="absolute inset-0 bg-white/10 opacity-0 hover:opacity-100 transition"></span>
